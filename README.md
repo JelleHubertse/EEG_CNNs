@@ -1,4 +1,4 @@
-# EEG_CNNs by B149849
+# EEG_CNNs by Jelle Hubertse
 
 ## MSc. Speech & Language Processing @ University of Edinburgh
 
@@ -40,3 +40,5 @@ The code assumes `python 3.7.4` and `conda 4.8.3`. Dependencies include:
 1. S. Wellington, J. Clayton, "Fourteen-channel EEG with Imagined Speech (FEIS) dataset," v1.0, University of Edinburgh, Edinburgh, UK, 2019. doi:10.5281/zenodo.3369178
 2. Wellington, S. (2019). An investigation into the possibilities and limitations of decoding heard, imagined and spoken phonemes using a low-density, mobile EEG headset [Master Thesis]. University of Edinburgh.
 3. Clayton, J. (2019). Towards Phone Classification from Imagined Speech Using a Lightweight EEG Brain-Computer Interface [Master Thesis]. University of Edinburgh.
+
+This code was previously available at https://www.github.com/EEG-CNNs/EEG_CNNs.git, but has been moved to this repo after anonimity for grading was no longer necessary.
