@@ -1,0 +1,5 @@
+This directory is the location of CNN checkpoints. Experiments run with the run_experiments.sh script will be renamed into relevant names. 
+Manually run experiments require manual renaming.
+
+Note that every time a CNN is initialized, a save directory is created. This means that the all_data files and decode modes leave remenants in the form of directories without checkpoints. 
+These are safe to delete.
